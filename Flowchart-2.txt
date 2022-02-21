@@ -1,0 +1,28 @@
+      
+
+   Problem:  2) Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapın
+      
+
+		Giriş N ədədi
+			
+		 N 21-ə tam bölünərsə
+		   ekrana çıxsın  "Ədəd 3-ə və 7-ə bölünür" 
+ 
+		 N 21-ə tam bölünməzsə
+		   ekrana çıxsın "Ədəd 3-ə və 7-ə bölünmür"
+
+
+
+			
+			START
+
+			input N
+			
+			if(N%21=0)
+			  print("Ədəd 3-ə və 7-ə bölünür")
+
+			else
+			 print("Ədəd 3-ə və 7-ə bölünmür")
+                
+                         END
+			

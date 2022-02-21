@@ -1,0 +1,50 @@
+                    
+			
+
+		Problem: 1) Havanın temperaturu verilir. Əgər temperatur 15 - dən kiçikdirsə ekrana yazılsın "Hava soyuqdur", 15 - dən böyükdürsə ekrana yazılsın "Hava istidir".
+
+
+			
+		
+			GİRİŞ X ədədi
+
+				X böyükdürmü 15-dən?
+			 	   
+				   ekrana çıxsın "Hava istidir"
+			
+					əks halda 
+					 X kiçikdirmi 15-dən"
+
+					   ekrana çıxsın "Hava soyuqdur"
+				
+						Əks halda
+					
+						 X 15-ə bərabərdimi?
+
+						    ekrana çıxsın "15-dən böyük və ya 15-dən kiçik ədəd daxil edin"
+
+
+
+
+					
+
+
+						START
+						
+						input X
+						 if (X>15)
+						   print("Hava istdir")
+						 if(X<15)
+						   print("Hava soyqudur")
+
+						   else 
+						     print("15-dən böyük və ya 15-dən kiçik ədəd daxil edin")	
+				 
+						END
+
+					 
+
+				   
+		
+		
+			
